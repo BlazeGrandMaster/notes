@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "bec87024d27bfbbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "35352d0f9385309a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcfba0e8da3b376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03/Markdown.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9f6151d6bf5eeb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d794db8534352260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f5d08239543dc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecf82e75291c7239",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91debcc06f66a063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d319b4bc061d1e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "453335d75951d2b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7cbe35a04e741d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03/Markdown.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9394c3712313b86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03/Markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8bae8f697dda992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6216e3d46ade5947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03/Markdown.md"
+              }
+            }
+          },
+          {
+            "id": "f9bbc512785d3784",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "09f884e97bde46d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eefacd39fb6db3d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "54f5d08239543dc2",
+  "lastOpenFiles": [
+    "00/1707530666-SJEH.md",
+    "03/Markdown.md",
+    "00/1707455563-firstnvimobsidiannote.md",
+    "02/Relationship Rules.md",
+    "03/bitchmade.md",
+    "03/fuckoff.md",
+    "templates/note template.md",
+    "00-NoteBox/Jew.md",
+    "00-NoteBox/1707531464-PPKV.md",
+    "00-NoteBox/bitch.md~",
+    "00-NoteBox/1707530871-i-hate-this.md",
+    "00-NoteBox/bitch.md",
+    "00-NoteBox/peice-of-shit.md~",
+    "03-Resources/SecondBrain.md",
+    "attachments",
+    "05-Journal/attachments",
+    "03-Resources/Markdown.md",
+    "03-Resources/Obsidian.md",
+    "textgenerator/prompts/huggingface/completeTextBloom.md",
+    "03-Resources/backlinks.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/dalle/ligAmbient.md",
+    "textgenerator/prompts/dalle/artBallPointPen.md",
+    "textgenerator/prompts/dalle/artBanksy.md",
+    "textgenerator/prompts/dalle/artBauhaus.md",
+    "textgenerator/prompts/dalle/artCartoon.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/dalle/artSteampunk.md",
+    "textgenerator/prompts/dalle",
+    "textgenerator/prompts/huggingface",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "templates"
+  ]
+}

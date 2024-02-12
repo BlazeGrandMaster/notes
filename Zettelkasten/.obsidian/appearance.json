@@ -1,0 +1,11 @@
+{
+  "accentColor": "#00ffee",
+  "cssTheme": "Sanctum",
+  "interfaceFontFamily": "Lilex Nerd Font",
+  "textFontFamily": "Lilex Nerd Font",
+  "monospaceFontFamily": "FantasqueSansM Nerd Font",
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false
+}
